@@ -1,0 +1,9 @@
+{
+  "os": "Windows",
+  "ram_gb": 16,
+  "gpu_available": true,
+  "gpu_name": "NVIDIA GeForce GTX 1650",
+  "vram_gb": 4.0,
+  "cuda_available": true,
+  "recommended_models": []
+}

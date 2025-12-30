@@ -351,3 +351,7 @@ Paramètres à viser :
         ​
 
 Si tu veux, tu peux préciser ton usage principal (OCR+QA, captioning, VQA multimodal, code etc.) et le runtime que tu préfères (Ollama, llama.cpp, vLLM, Transformers), et tu auras une reco plus ciblée (modèle exact + format + flags de lancement).
+
+
+
+https://huggingface.co/helenai/Qwen3-VL-4B-Instruct-int4
